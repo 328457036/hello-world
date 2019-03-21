@@ -1,2 +1,3 @@
 # hello-world
-new project
+新项目
+alert("hello world")

@@ -1,3 +1,4 @@
 # hello-world
-新项目
 alert("hello world")
+print("hello world")
+print "hello world"
